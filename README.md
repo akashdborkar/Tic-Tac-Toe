@@ -10,5 +10,5 @@ Refered udemy course for react learning - Academind by Maximilian Schwarzmüller
 
 ## Authors
 
-- [@akashborkar](https://www.github.com/akashborkargit)
+- [@akashborkar](https://www.github.com/akashborkar)
 
